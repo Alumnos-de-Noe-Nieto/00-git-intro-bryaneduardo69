@@ -122,7 +122,7 @@ La diferencia: Google Docs es automático (no controlas), Git es manual (CONTROL
 
 ---
 
-## 💾 Guarda tu Progreso
+## 💾 Guarda tu Progresoo
 
 Ahora que completaste esta lección y marcaste todos los checkpoints, ejecuta estos comandos para guardar tu progreso en un commit y que el autograder te lo califique cuando hagas push.
 
