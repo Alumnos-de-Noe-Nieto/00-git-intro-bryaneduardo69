@@ -285,7 +285,6 @@ git add ALUMNO.md
 git commit -m "Agregar ALUMNO.md: reflexión sobre Git"
 git push
 ```
-
 Verifica en GitHub.com que el archivo aparezca.
 
 ---
