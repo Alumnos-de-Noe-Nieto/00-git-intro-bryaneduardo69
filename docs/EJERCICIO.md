@@ -49,7 +49,7 @@ Este documento lista los 4 ejercicios que practicarás a lo largo del curso.
 2. Ejecuta:
    ```bash
    git add tareas.txt
-   git commit -m "Agregar tarea de colaboración"
+   git commit -m "Agrgegar tarea de colaboración"
    ```
 3. Ejecuta `git log --oneline`
 4. **Verificación:** Deberías ver 3 commits
@@ -99,7 +99,7 @@ Este documento lista los 4 ejercicios que practicarás a lo largo del curso.
 **Pasos (Parte 3: Hacer más cambios):**
 6. Edita `tareas.txt` en tu computadora:
    - Agrega: `- Tarea 5: Celebrar éxito`
-7. Ejecuta:
+7.  Ejecuta: 
    ```bash
    git add tareas.txt
    git commit -m "Agregar tarea 5 desde mi computadora"
@@ -114,9 +114,10 @@ Este documento lista los 4 ejercicios que practicarás a lo largo del curso.
 
 ¿Completaste todos los ejercicios?
 
-- [ ] ✅ Ejercicio 1: Repositorio local con 2+ commits
-- [ ] ✅ Ejercicio 2: Historial con 3 commits
-- [ ] ✅ Ejercicio 3: GitHub tiene tus archivos
-- [ ] ✅ Ejercicio 4: Pull y push funcionan
+- [x] ✅ Ejercicio 1: Repositorio local con 2+  commits
+- [x] ✅ Ejercicio 2: Historial con 3 commits
+- [x] ✅ Ejercicio 3: GitHub tiene tus archivos
+- [x] ✅ Ejercicio 4: Pull y push funcionan
+
 
 Si completaste TODO → **Estás listo para el entregable final**
